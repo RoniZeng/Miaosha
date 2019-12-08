@@ -1,2 +1,7 @@
 # Miaosha
-A Miaosha Project base on Spring Boot &amp; Redis Cache &amp; RabbitMQ
+A Miaosha Project base on:
+* Spring Boot
+* MySQL
+* Redis
+* RabbitMQ
+
